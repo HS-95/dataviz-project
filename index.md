@@ -1,8 +1,6 @@
 # dataviz-project
 # The largest heading
-## The second largest heading
-###### The smallest heading
-
+## Les taxons parents (cetaceamorphea) de la baleine bleue 
 ```sparql
 #Les taxons parents (cetaceamorphea) de la baleine bleue 
 #defaultView:Graph
