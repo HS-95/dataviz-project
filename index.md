@@ -15,3 +15,4 @@ WHERE
   OPTIONAL { ?item wdt:P18 ?pic }
   SERVICE wikibase:label {bd:serviceParam wikibase:language "en" }
 }
+```
